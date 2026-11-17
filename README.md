@@ -5,7 +5,7 @@ Final data project for COMM 1280 (Data Science for Communication) fall 2026, an 
 **Collaborators:** Pritika Kharkwal, Gabri Kurtzer-Ellenbogen, James Wan
 
 ## Overview
-Wow!
+Wow! Awesome
 
 ## Contents
 * `data`
